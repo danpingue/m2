@@ -24,8 +24,8 @@
         <version>1.2</version>
         <executions>
           <execution>
-            <id>site</id>
-            <phase>site</phase>
+            <id>compile</id>
+            <phase>compile</phase>
             <goals>
               <goal>generate</goal>
             </goals>
